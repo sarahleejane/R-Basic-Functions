@@ -1,0 +1,6 @@
+Student	Age
+Claire	21
+George	25
+Ruskin	26
+Sarah	26
+Bob		20

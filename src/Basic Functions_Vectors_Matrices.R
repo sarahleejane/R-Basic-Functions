@@ -1,8 +1,8 @@
 #create project
-#setwd("C:/Users/user/Documents/DataScience/")
-#library(ProjectTemplate)
+setwd("C:/Users/user/Documents/DataScience/")
+library(ProjectTemplate)
 #create.project("R.Basic.Functions")
-#setwd("C:/Users/user/Documents/DataScience/R.Basic.Functions/")
+setwd("C:/Users/user/Documents/DataScience/R Basic Functions/")
 
 #***Super basic functions***
 sum(2,3,4)
@@ -18,7 +18,7 @@ source("parrot example1.R")
 
 #**Super basic vector examples**
 #A vector is a list of values
-#C function COMBINES a list of values/strings - must all be same mode (type)
+#c function COMBINES a list of values/strings - must all be same mode (type)
 c(1,2,3)
 c('a','b','c')
 c(TRUE, FALSE)
